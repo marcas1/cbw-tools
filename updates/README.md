@@ -78,3 +78,43 @@ https://java.com/fr/download/manual.jsp
   -       6.1.0/                                                                 11-Dec-2019 20:35  -
   -       6.1.2/                                                                 15-Jan-2020 19:27
   
+## Keepass 
+ - URL https://keepass.info/download.html
+ - 2.41 : 26/6/2019
+ - 2.43 : 
+ 
+## WINSCP
+  - https://sourceforge.net/projects/winscp/files/WinSCP/
+  - https://winscp.net/eng/download.php
+  - https://winscp.net/download/files/2019062609425ab07aacef664225221d054504fdb614/WinSCP-5.15.2-Setup.exe
+  - https://winscp.net/download/WinSCP-5.15.4-Setup.exe
+  
+## ncat - nmap - zenmap (GUI)
+   - https://nmap.org/dist/
+   - 10/08/2019 (ze)nmap-7.80 
+ 
+## iperf : https://iperf.fr/en/iperf-download.php
+ - versions
+   - 3.1.3 : dec 2019
+   
+## Wireshark
+  - 2019/05/23 https://www.wireshark.org/download.html
+  - Downloads 
+     - 64 bits: https://1.eu.dl.wireshark.org/win64/
+     - 32 bits: https://1.eu.dl.wireshark.org/win32/
+   - Versions 
+     - 2019/10/28 3.0.6 
+     - 2020-01-15 Wireshark-win64-3.0.8.exe	
+     - 2.6.9.exe	2019-05-22
+
+## Ping Castle
+  - https://www.pingcastle.com/download/
+  - https://github.com/vletoux/pingcastle/releases/download/2.7.1.1/PingCastle_2.7.1.1.zip
+  - versions
+    PingCastle 2.6.0.0 (Release date: 2019-01-31 – End of support: 2020-12-31)
+    PingCastle 2.5.1.0 (Release date: 2018-07-31 – End of support: 2020-07-31)
+    PingCastle 2.4.3.0 (Release date: 2018-01-19 – End of support: 2019-12-31)
+    PingCastle 2.4.2.0 (Release date: 2017-05-14 – End of support: 2019-07-31)
+    PingCastle 2.4.1.1 (release date: 2017-05-14 – end of support: 2019-07-31)
+    PingCastle 2.4.1.0 (release date: 2017-04-09 – end of support: 2019-07-31)
+    PingCastle 2.4.0.1 (release date: 2017-01-26 – end of support: 2018-12-31)
