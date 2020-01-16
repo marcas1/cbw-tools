@@ -1,11 +1,24 @@
 
+# Repositories
 
-# Sources:
-  - WAPT Windows App Store : https://store.wapt.fr/store/
+- WAPT Windows App Store : https://store.wapt.fr/store/
+
+# Softwares list and URLs
 
 ## Java 
+Site : https://java.com/fr/download/manual.jsp
 
-
+https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239856_230deb18db3e4014bb8e3e8324f81b43
+https://java.com/fr/download/manual.jsp
+### Versions
+ - 15 oct 2019 : jre-8u241-windows-x64.exe : 
+ - annonces J 7.0 8.0 : https://java.com/fr/download/faq/release_dates.xml
+ - history : https://en.wikipedia.org/wiki/Java_version_history
+### links 
+ - Standard https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+ - Runtime https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+ - Oracle Java Archive https://www.oracle.com/technetwork/java/archive-139210.html
+ - Java 8 211 - 231 : https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8u211-later-5573849.html
 ## Firefox
 - Firefox Standard french : https://www.mozilla.org/fr/firefox/all/?q=French,%20Fran%C3%A7ais
 
@@ -31,3 +44,37 @@
    - 2019/09/16 : flash 32.0.0.255
    - 2019/12/17 : 32.0.0.314
    
+## Libre Office
+
+ - Libreoffice Stable (Enterprise) https://fr.libreoffice.org/download/libreoffice-stable/
+ - Home (testing) https://download.documentfoundation.org/libreoffice/testing/
+
+### Mirrors lists
+ - https://download.documentfoundation.org/mirmon/allmirrors.html
+ - example : http://mirror.in2p3.fr/ftp/tdf/libreoffice/
+ - path example : https://ftp.igh.cnrs.fr/pub/tdf/libreoffice/{stable,testing,portable}/{version 6.x.y}/{deb,mac,rpm,win}/[x86,x86_x64}/ contains executables, language pack and sdk
+ 
+## Putty
+- URL : https://the.earth.li/~sgtatham/putty/latest/
+- Version:
+  -- 	2017-07-08 07:49 	Putty 0.70
+  -- 	2019-09-29 15:30 	Putty 0.73
+
+## Virtualbox
+- URL https://download.virtualbox.org/virtualbox/
+- URL path  https://download.virtualbox.org/virtualbox/{version}/
+- debian sources.list : https://download.virtualbox.org/virtualbox/debian/ {dist all ubuntu and debian} contrib non-free 
+- yum update /virtualbox/rpm/{fedora/{16..31}/$arch}|{rhel/X.Y/arch i386..x86_64}|{opensuse}/repodata
+- opensuse: https://download.virtualbox.org/virtualbox/rpm/opensuse/virtualbox.repo
+- fedora: https://download.virtualbox.org/virtualbox/rpm/fedora/virtualbox.repo
+
+  ### Versions:
+  -       5.2.26/                                                                28-Jan-2019 12:02  -
+  -       5.2.28/                                                                16-Apr-2019 20:35  -
+  -       5.2.36/                                                                14-Jan-2020 19:55  -
+  -       6.0.0/                                                                 18-Dec-2018 17:13  -
+  -       6.0.14/                                                                16-Oct-2019 20:15  -
+  -       6.0.16/                                                                15-Jan-2020 13:06  -
+  -       6.1.0/                                                                 11-Dec-2019 20:35  -
+  -       6.1.2/                                                                 15-Jan-2020 19:27
+  
