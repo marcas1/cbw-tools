@@ -118,3 +118,31 @@ https://java.com/fr/download/manual.jsp
     PingCastle 2.4.1.1 (release date: 2017-05-14 – end of support: 2019-07-31)
     PingCastle 2.4.1.0 (release date: 2017-04-09 – end of support: 2019-07-31)
     PingCastle 2.4.0.1 (release date: 2017-01-26 – end of support: 2018-12-31)
+
+## VLC videolan
+
+### links
+  - https://mirror.cyberbits.eu/videolan/vlc/3.0.12/win64/vlc-3.0.12-win64.exe
+  - https://mirror.cyberbits.eu/videolan/vlc/
+  - http://download.videolan.org/pub/videolan/vlc/
+  
+### methode
+  - trier le listing par date:
+   `curl -s http://download.videolan.org/pub/videolan/vlc/ | sort -k3n -k2M -k1n -t'-'`
+  - ou Utiliser le last
+```
+http://download.videolan.org/pub/videolan/vlc/last/
+	win64/vlc-3.0.12-win64.exe
+	win64/vlc-3.0.12-win64.msi
+	win64/vlc-3.0.12-win64.zip
+```
+   - exemple de récupération de l'URL du 'last': 
+```shell
+URL="http://download.videolan.org/pub/videolan/vlc/last/win64/";curl -s $URL |sed "s_.*\"\\(.*\\)\".*_$URL\1_" |grep \.msi$
+http://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.12-win64.msi
+```
+
+
+
+
+
