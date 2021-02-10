@@ -2,6 +2,7 @@
 # Repositories
 
 - WAPT Windows App Store : https://store.wapt.fr/store/
+- GetMySoftware Projet : https://gitlab.adullact.net/GetMySoftware/GetMySoftware
 
 # Softwares list and URLs
 
