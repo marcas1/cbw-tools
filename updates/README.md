@@ -101,7 +101,7 @@ https://java.com/fr/download/manual.jsp
 ## Wireshark
   - 2019/05/23 https://www.wireshark.org/download.html
   - Downloads 
-     - 64 bits: https://1.eu.dl.wireshark.org/win64/
+     - 64 bits: https://1.eu.dl.wireshark.org/win64/ https://2.na.dl.wireshark.org/win64/Wireshark-win64-3.4.5.exe
      - 32 bits: https://1.eu.dl.wireshark.org/win32/
    - Versions 
      - 2019/10/28 3.0.6 
