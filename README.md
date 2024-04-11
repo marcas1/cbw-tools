@@ -1,2 +1,2 @@
 # cbw-tools
-Tools around cyberwatch Vulnrabilty and compliance managers
+Tools about cyberwatch Vulnrabilty and compliance managers
