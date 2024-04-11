@@ -93,7 +93,11 @@ https://java.com/fr/download/manual.jsp
 ## ncat - nmap - zenmap (GUI)
    - https://nmap.org/dist/
    - 10/08/2019 (ze)nmap-7.80 
- 
+
+## Snag-it (capture d'écran pour Windows)
+   - https://support.techsmith.com/hc/fr/articles/115006435067-Historique-des-versions-de-Snagit-Windows
+   - 21 Décembre 2023: Snagit 2024.0.4
+
 ## iperf : https://iperf.fr/en/iperf-download.php
  - versions
    - 3.1.3 : dec 2019
