@@ -83,7 +83,10 @@ https://java.com/fr/download/manual.jsp
  - URL https://keepass.info/download.html
  - 2.41 : 26/6/2019
  - 2.43 : 
- 
+
+## FresRSS
+- URL https://github.com/FreshRSS/FreshRSS/tags
+
 ## WINSCP
   - https://sourceforge.net/projects/winscp/files/WinSCP/
   - https://winscp.net/eng/download.php
